@@ -1,0 +1,7 @@
+why stdio.h?
+what is void/ int?
+why flower brackets only?
+why \n at end of printf?
+what is that befor # include?
+what is that  return?
+why return 0?
