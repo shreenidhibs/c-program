@@ -1,7 +1,19 @@
 why stdio.h?
+  its a header file which contain input n output function
+  here printf() is output function so we are using
 what is void/ int?
+  its data type used before main()
 why flower brackets only?
+ only flower brackets should be used in C program
+ 
 why \n at end of printf?
+  \n is a new line charater 
+  it means after printing msg if any othe msgs it will be printer in next line
 what is that befor # include?
+  its a comment section wer you can breifly writ about program
 what is that  return?
+  its keyword 
+  when function should value, return should be used
 why return 0?
+
+
